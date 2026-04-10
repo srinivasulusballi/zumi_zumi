@@ -48,6 +48,6 @@ void main() {
     lcd_cmd(0x06); // Entry mode
 
     lcd_string("Hello World");
-
+    lcd_string("Hello srinu");
     while(1);
 }
